@@ -1,0 +1,41 @@
+/* 
+    Color Palette
+        Primary color: 139, 77, 68;
+        Secondary color: rgb(192, 93, 96);
+        thrid color: rgb(242, 214, 192)
+        fourth color: rgb(193, 164, 157)
+        black: rgb(10, 4, 11)
+
+    Fonts
+        Headlines: abril fatface - font-family: 'Abril Fatface', cursive;
+        Body Copy: pt serif - font-family: 'PT Serif', serif;
+        
+
+    Background colors
+        gradient: Colour 1: #232526
+                  Colour 2: #414345
+*/
+
+/* Global */
+
+body {
+    background-image: url(../img/contemporary_china/contemporary_china.png)
+}
+
+/* Type */
+
+h1, h2 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+p, blockquote {
+    font-family: 'Pt Serif', serif;
+    font-size: 1.15em;
+    line-height: 1.5em;
+}
+
+blockquote {
+    font-size: 2em;
+    padding: 4em;
+    text-align: center;
+}
